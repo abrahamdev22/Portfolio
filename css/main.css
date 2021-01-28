@@ -635,14 +635,14 @@ main {
     /* Contact Section */
 
     #contact.contact-active {
-        position: relative;
+        /* position: relative; */
         /* margin-top: auto; */
-        padding-top: 17em;
+        padding-top: 5em;
     }
 
     #contact.contact-slideup {
-        position: relative;
-        top: 10.7em;
+        /* position: relative;
+        top: 10.7em; */
         padding-top: 17em;
     }
 
