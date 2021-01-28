@@ -560,10 +560,11 @@ main {
         display: none;
     }
 
-    /* Intro Section */
+    /* Main Side */
+
     main {
         /* display: block; */
-        position: relative;
+        /* position: relative; */
         width: 100%;
         left: auto;
         /* top: auto; */
@@ -574,6 +575,8 @@ main {
     /* main.main-active {
         top: 250px;
     } */
+
+    /* Intro Section */
 
     #intro.intro-active {
         position: relative;
