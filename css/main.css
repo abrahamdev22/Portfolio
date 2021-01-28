@@ -8,7 +8,7 @@ html {
 body {
     margin: 0;
     padding: 0;
-    /* display: flex; */
+    display: flex;
 }
 
 /* NAV SECTION */
@@ -560,10 +560,11 @@ main {
         display: none;
     }
 
-    /* Intro Section */
+    /* Main Side */
+
     main {
         /* display: block; */
-        position: relative;
+        /* position: relative; */
         width: 100%;
         left: auto;
         /* top: auto; */
@@ -574,6 +575,8 @@ main {
     /* main.main-active {
         top: 250px;
     } */
+
+    /* Intro Section */
 
     #intro.intro-active {
         position: relative;
@@ -632,14 +635,14 @@ main {
     /* Contact Section */
 
     #contact.contact-active {
-        position: relative;
+        /* position: relative; */
         /* margin-top: auto; */
-        padding-top: 17em;
+        padding-top: 5em;
     }
 
     #contact.contact-slideup {
-        position: relative;
-        top: 10.7em;
+        /* position: relative;
+        top: 10.7em; */
         padding-top: 17em;
     }
 
@@ -764,6 +767,7 @@ main {
 
     #intro div.container span h3 {
         font-size: 1.5em;
+        font-weight: bolder;
     }
 
 
