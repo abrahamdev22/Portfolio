@@ -273,10 +273,17 @@ main {
 
 #portfolio div.container div.porto-body div.card-inner div.card-desc {
     width: auto;
-    height: 140px;
+    height: 120px;
     /* z-index: 2; */
     /* border: 1px solid black; */
     margin: 0 15px;
+}
+
+#portfolio div.card-desc a{
+    color: brown;
+    text-shadow: .5px .5px 1px black;
+    text-shadow: none;
+
 }
 
 #portfolio div.container div.porto-body div.card-inner div.tech {
