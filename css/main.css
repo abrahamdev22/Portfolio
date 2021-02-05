@@ -286,6 +286,10 @@ main {
 
 }
 
+#portfolio div.card-desc h3 {
+    color: indianred;
+}
+
 #portfolio div.container div.porto-body div.card-inner div.tech {
     width: auto;
     height: auto;
