@@ -216,7 +216,7 @@ main {
     /* padding: 20px; */
     padding-top: 5px;
     box-sizing: border-box;
-    padding-left: 20px;
+    /* padding-left: 20px; */
 
 }
 
@@ -229,7 +229,7 @@ main {
     color: white;
     /* opacity: 1; */
     margin: 10px auto;
-
+    margin: 10px auto auto 15px;
 }
 
 #portfolio div.container div.porto-body {
