@@ -213,7 +213,10 @@ main {
     background: linear-gradient(270deg, teal, darkslateblue); 
 
     /* opacity: 0.5; */
-    padding: 20px;
+    /* padding: 20px; */
+    padding-top: 5px;
+    box-sizing: border-box;
+    padding-left: 20px;
 
 }
 
@@ -225,7 +228,7 @@ main {
     color: #737c86;
     color: white;
     /* opacity: 1; */
-    margin: 20px auto;
+    margin: 10px auto;
 
 }
 
